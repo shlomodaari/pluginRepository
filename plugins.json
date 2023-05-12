@@ -1,5 +1,5 @@
 [
-    {
+ {
     "id": "Armory.K8sCustomResourceStatus",
     "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
     "provider": "kubernetes",
@@ -14,5 +14,5 @@
         "url": "https://github.com/shlomodaari/pluginRepository/releases/download/v2.0.2-crdcheck/k8s-custom-resource-status.zip"
       }
     ]
-  }
+}
 ]
