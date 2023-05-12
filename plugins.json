@@ -12,5 +12,6 @@
         "state": "",
         "preferred": false,  
         "url": "https://github.com/shlomodaari/pluginRepository/releases/download/v2.0.2-crdcheck/k8s-custom-resource-status.zip"
-      }            
+      }
+    }   
 ]
