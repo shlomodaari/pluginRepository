@@ -14,12 +14,11 @@
         "url": "https://github.com/shlomodaari/crdscheck/releases/download/v2.0.2/k8s-custom-resource-status.zip"
       },
      {
-        "version": "2.0.3",
-        "date": "2023-05-15T22:46:32.694891Z",
+        "version": "v2.0.3",
+        "date": "2023-05-15T23:32:11.271752Z",
         "requires": "clouddriver>=0.0.0",
         "sha512sum": "cc37b95f98ca8d7ff1f0b309f607122fa48d3f34c48f9295e194c909271385a8548f711537912c5b03f2682f9983fb0cf09e1d1635d9f38689c20b222847288b",
-        "state": "",
-        "preferred": false,  
+        "preferred": false,
         "url": "https://github.com/shlomodaari/crdscheck/releases/download/v2.0.3/k8s-custom-resource-status-v2.0.3.zip"
                 
       }
