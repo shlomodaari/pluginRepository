@@ -1,26 +1,19 @@
 [
  {
-    "id": "Armory.K8sCustomResourceStatus",
-    "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
-    "provider": "kubernetes",
-    "releases": [
-      {
-        "version": "2.0.2",
-        "date": "2023-05-12T22:23:21.641322Z",
-        "requires": "clouddriver>=0.0.0",
-        "sha512sum": "746d4bb051f2989ed226dfb192703142ae8e70ee34f1bb27b5e6f3b6801111b018af9a49bfa2599cd74c66e38b96eca5222953858d0783b1e0c4a59c0895466e",
-        "state": "",
-        "preferred": false,  
-        "url": "https://github.com/shlomodaari/crdscheck/releases/download/v2.0.2/k8s-custom-resource-status.zip"
-      },
-      {
-        "version": "2.0.3",
-        "date": "2023-06-15T19:05:12.791789Z",
-        "requires": "clouddriver>=0.0.0",
-        "sha512sum": "302e8bab55c8daf333f2fa6747d3a2543edb1810af3ab11dcce057410686ce66489c55abe3a1be2c1e2504c92566aed71fae00aaefdc91e56416e1e52b2d7f3e",
-        "state": "",
-        "url": "https://github.com/shlomodaari/crdscheck/releases/download/v2.0.3/k8s-custom-resource-status-v2.0.3.zip"
-      }
-    ]
-  }
+     "id": "Armory.ObservabilityPlugin",
+     "description": "A plugin for configuring and customizing Micrometer for Armory.",
+     "provider": "TODO",
+     "releases": [
+         {
+             "version": "89d2baf",
+             "date": "2024-04-16T17:35:23.734947Z",
+             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
+             "sha512sum": "78a5876a4ff3978dd7ff8da96c7ba86b56308941616c71ed2e2454a503d4d27ce5966691ad48920bf110f8f8f0f8700d8813b4757d52729ea937a26751c0cdae",
+             "preferred": false,
+             "compatibility": [
+                 
+             ]
+         }
+     ]
+ }
 ]
