@@ -5,12 +5,12 @@
      "provider": "TODO",
      "releases": [
          {
-             "version": "89d2baf",
+             "version": "1.6.1",
              "date": "2024-04-16T17:35:23.734947Z",
              "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
              "sha512sum": "78a5876a4ff3978dd7ff8da96c7ba86b56308941616c71ed2e2454a503d4d27ce5966691ad48920bf110f8f8f0f8700d8813b4757d52729ea937a26751c0cdae",
              "state": "",
-             "url": "https://github.com/shlomodaari/armory-observability-plugin/releases/download/89d2baf/armory-observability-plugin-89d2baf.zip"
+             "url": "https://github.com/shlomodaari/armory-observability-plugin/releases/download/v1.6.1/armory-observability-plugin-v1.6.1.zip"
              "compatibility": [
                  
                  
