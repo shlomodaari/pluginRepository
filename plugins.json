@@ -14,5 +14,22 @@
          }
      ]
  }
+ {
+    "id": "Armory.K8sCustomResourceStatus",
+    "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
+    "provider": "kubernetes",
+    "releases": [
+        {
+            "version": "v3.1.3",
+            "date": "2024-11-22T21:10:25.831890Z",
+            "requires": "clouddriver>=0.0.0",
+            "sha512sum": "c6e3dd7b8b5440e508a27aa7c2af242b3fbb676485aa4ce71c79325d90f63440fa1dfde98648bc74216fef2b6b8ff394340a165ba7ddb633c30cdf551fbf3fd9",
+            "preferred": false,
+            "compatibility": [
+                
+            ]
+        }
+    ]
+}
 ]
 
