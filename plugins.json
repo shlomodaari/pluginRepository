@@ -1,20 +1,5 @@
 [
  {
-     "id": "Armory.ObservabilityPlugin",
-     "description": "A plugin for configuring and customizing Micrometer for Armory.",
-     "provider": "TODO",
-     "releases": [
-         {
-             "version": "2e1bb9d",
-             "date": "2024-04-16T17:35:23.734947Z",
-             "requires": "clouddriver>=0.0.0,echo>=0.0.0,fiat>=0.0.0,front50>=0.0.0,gate>=0.0.0,igor>=0.0.0,kayenta>=0.0.0,orca>=0.0.0,rosco>=0.0.0",
-             "sha512sum": "e6ed21c4c573b12a50b51381275875efb7b1b903f3eef3bdad11e14d13b45508591a624c1cb8a53dc5e89e1c07771819b2a26a470285916797eaeca7528ed0c0",
-             "state": "",
-             "url": "https://github.com/shlomodaari/armory-observability-plugin/releases/download/2e1bb9d/armory-observability-plugin-2e1bb9d.zip"
-         }
-     ]
- }
-{
     "id": "Armory.K8sCustomResourceStatus",
     "description": "A plugin to validate if a Custom Resource deployment is stable in kubernetes",
     "provider": "kubernetes",
