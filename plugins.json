@@ -20,12 +20,12 @@
     "provider": "kubernetes",
     "releases": [
         {
-            "version": "v3.2.1",
-            "date": "2024-11-22T21:17:08.172609Z",
+            "version": "3.1.1",
+            "date": "2024-12-18T23:06:01.337590Z",
             "requires": "clouddriver>=0.0.0",
-            "sha512sum": "2b41d0414ae142370f74a371d3bcf47ef42bc2ed6225055e06148f41ef4c1aec778af55b233c50f536b091ebba9ff2a5ebded27c3c9002ba4d76e2aca467e83a",
+            "sha512sum": "82d4760d3da818389d9fcf3343620bbb36e2c225d268ac0193f44c9dacf852a854ce6eba846b615a87daa5b35f9f76defc0faaad5530ed9e9cbff555d4a2ec26",
             "state": "",
-            "url": "https://github.com/armory-plugins/k8s-custom-resource-status/releases/download/v3.2.1/k8s-custom-resource-status-v3.2.1.zip"
+            "url": "https://github.com/shlomodaari/pluginRepository/releases/download/3.1.1/armory-observability-plugin-2e1bb9d.zip"
                 
             ]
         }
