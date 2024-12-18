@@ -25,7 +25,7 @@
             "requires": "clouddriver>=0.0.0",
             "sha512sum": "82d4760d3da818389d9fcf3343620bbb36e2c225d268ac0193f44c9dacf852a854ce6eba846b615a87daa5b35f9f76defc0faaad5530ed9e9cbff555d4a2ec26",
             "state": "",
-            "url": "https://github.com/shlomodaari/pluginRepository/releases/download/3.1.1/armory-observability-plugin-2e1bb9d.zip"
+            "url": "https://github.com/shlomodaari/pluginRepository/releases/download/3.1.1/k8s-custom-resource-status-3.1.1.zip"
                 
             ]
         }
